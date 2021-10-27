@@ -1,0 +1,24 @@
+{
+  "name": "audio-player-php",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maximize/audio-player-php.git"
+  },
+  "scripts": {
+    "build": "mix"
+  },
+  "keywords": [],
+  "author": "Eduardo Torres <contato@eduardotorres.dev>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maximize/audio-player-php/issues"
+  },
+  "homepage": "https://github.com/maximize/audio-player-php#readme",
+  "devDependencies": {
+    "@maximize/audio-player": "^1.0.1",
+    "laravel-mix": "^6.0.34"
+  }
+}
