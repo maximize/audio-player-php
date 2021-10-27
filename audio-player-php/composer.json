@@ -1,0 +1,24 @@
+{
+    "name": "maximize/audio-player-php",
+    "version": "1.0.0",
+    "description": "Audio Player Laravel Component Based",
+    "authors": [
+        {
+            "name": "Eduardo Torres",
+            "email": "contato@eduardotorres.dev"
+        }
+    ],
+    "minimum-stability": "dev",
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Maximize\\AudioPlayer\\AudioPlayerServiceProvider"
+            ]
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Maximize\\AudioPlayer\\": "src/"
+        }
+    }
+}
