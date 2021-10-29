@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/maximize/audio-player-php#readme",
   "devDependencies": {
-    "@maximize/audio-player": "^1.0.1",
     "laravel-mix": "^6.0.34"
+  },
+  "dependencies": {
+    "@maximize/audio-player": "^1.0.5"
   }
 }
