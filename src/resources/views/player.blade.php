@@ -17,9 +17,13 @@
                 <span>/</span>
                 <span class="time__duration">0:00</span>
             </div>
-            <input type="range" class="audio__slider slider" max="100" value="0">
+            <div class="audio__timeline">
+                <input type="range" class="audio__slider slider" max="100" value="0">            
+            </div>
             <div class="audio__volume volume">
-                <input type="range" class="volume__slider audio__slider" max="100" value="100">
+                <div class="audio__timeline">
+                    <input type="range" class="volume__slider audio__slider" max="100" value="100">
+                </div>
                 <button class="audio__button volume__button">
                     <span>Volume</span>
                 </button>
