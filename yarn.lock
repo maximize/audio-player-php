@@ -885,10 +885,10 @@
   resolved "https://registry.yarnpkg.com/@discoveryjs/json-ext/-/json-ext-0.5.5.tgz#9283c9ce5b289a3c4f61c12757469e59377f81f3"
   integrity sha512-6nFkfkmSeV/rqSaS4oWHgmpnYw194f6hmWF5is6b0J1naJZoiD0NTc9AiUwPHvWsowkjuHErCZT1wa0jg+BLIA==
 
-"@maximize/audio-player@^1.1.1":
-  version "1.1.1"
-  resolved "https://npm.pkg.github.com/download/@maximize/audio-player/1.1.1/94854dbec3a71dbe5e0c241756be4865c32e385c4446b6bb335ab8682d5ba06d#3c5665054a099ec7a6ecf84eee2ff6be74413a91"
-  integrity sha512-g7qHW+R5hQdwS99B/RXV4tX4PQoFiQPBMApBYG9KrGhrgiqTa6jeVqozBqnBOZ18/CiZuOZF4xy2gN8NuHrcfg==
+"@maximize/audio-player@^1.1.2":
+  version "1.1.2"
+  resolved "https://npm.pkg.github.com/download/@maximize/audio-player/1.1.2/1f808cc5cfbbbb1dbbc73645e923815b35d3f51cdb3ead23beb1ba04b1c335c7#1655b3ec711044e682af1c43c9a124c32059ea53"
+  integrity sha512-8z62H5NM9X2D9hga5vbWjoP8q5XgSrllQOx8dMXRN4YQ1U4/lyxOcSXyAj6ou7laTAaRvxttyRoOaQChm+mn9w==
 
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
