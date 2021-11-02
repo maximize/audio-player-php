@@ -8,7 +8,6 @@
         <div class="audio__folder">
             <span>{{ config('audio-player.title', 'Audio Player') }}</span>
         </div>
-        <div class="audio__controls">
             <button class="audio__button audio__play">
                 <span>Play/Stop</span>
             </button>
@@ -28,7 +27,6 @@
                     <span>Volume</span>
                 </button>
             </div>
-        </div>
         <h1 class="audio__description">{{ $description }}</h1>
     </div>
 </audio-player>
